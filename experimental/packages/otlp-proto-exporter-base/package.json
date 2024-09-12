@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.6.9",
-    "@opentelemetry/core": "1.6.0",
+    "@opentelemetry/core": "1.25.1",
     "@opentelemetry/otlp-exporter-base": "0.32.0"
   },
   "homepage": "https://github.com/open-telemetry/opentelemetry-js/tree/main/experimental/packages/otlp-proto-exporter-base"
