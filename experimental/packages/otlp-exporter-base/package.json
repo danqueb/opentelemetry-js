@@ -61,7 +61,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@opentelemetry/core": "1.6.0"
+    "@opentelemetry/core": "1.25.1"
   },
   "devDependencies": {
     "@opentelemetry/api": "^1.0.0",
